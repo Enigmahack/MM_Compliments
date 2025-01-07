@@ -25,7 +25,7 @@
         "Daaaaviiiiiid, the handsome maaaaan, to the rescuuuuuuue, Daaaaviiiiiiiiid. popopopom.",
         "Hello, you beautiful specimen!",
         "You look sexy!",
-        "Looking good today!"
+        "Looking good today!",
         "Wow, you look hot!",
         "You look nice!",
         "Hi, sexy!",
@@ -72,5 +72,53 @@
         "Birthday suit time?",
         "Wife has 'duties' today!",
         "Look, I'm not saying that you're old. But if you were milk, I'd sniff you first.."
+    ],
+  "day_sunny" : [
+    "day_sunny"
+    ],
+  "day_cloudy" : [
+    "day_cloudy"
+    ],
+  "cloudy" : [
+    "cloudy"
+    ],
+  "cloudy_windy" : [
+    "cloudy_windy"
+    ],
+  "showers" : [
+    "showers"
+    ],
+  "rain" : [
+    "rain"  
+    ],
+  "thunderstorm" : [
+    "thunderstorm"
+    ],
+  "snow" : [
+    "snow"
+    ],
+  "fog" : [
+    "fog"
+    ],
+  "night_clear" : [
+    "night_clear"
+    ],
+  "night_cloudy" : [
+    "night_cloudy"
+    ],
+  "night_showers" : [
+    "night_showers"
+    ],
+  "night_rain" : [
+    "night_rain"
+    ],
+  "night_thunderstorm" : [
+    "night_thunderstorm"
+    ],
+  "night_snow" : [
+    "night_snow"
+    ],
+  "night_alt_cloudy_windy" : [
+    "night_alt_cloudy_windy"
     ]
 }
