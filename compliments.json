@@ -2,29 +2,30 @@
   "anytime": [
         "Hey there sexy!",
         "What's shakin?",
-        "Shake what yo momma gave ya!",
-        "Are you ready?!",
+        "Shake what yo mamma gave ya!",
+        "Get ready for this!",
         "Shimmy your jimmy!",
-        "Let loose your caboose!"
-    ],
-  "morning": [
-        "Good morning!",
-        "Enjoy your day!",
-        "How was your sleep?",
-        "Kick today's ass!",
-        "Carpe Diem all up in here!",
-        "Drink. Coffee."
-    ],
-  "afternoon": [
+        "Let loose your caboose!",
+        "Ooga-Chaka Ooga-Ooga Ooga-Chaka",
+        "What if I fall? Oh, But my darling, what if you fly?",
+        "When was the last time you did something for the first time?",
+        "Be kind.",
+        "If it costs you your mental health, it's too expensive.",
+        "Is it wine time yet?",
+        "I don't always whoop, but when I do, there it is.",
+        "Shine on, you bat-shit-crazy diamond!",
+        "-Why do you like thunderstorms? -Because it shows that even nature needs to scream sometimes. E.D.",
+        "I was like, "Whatever bitches" and the bitches whatevered.",
+        "Don't forget to drink water and get some sun; you're basically a house plant with complicated emotions.",
+        "Do more things that make you forget to check your phone!",
+        "Wrong is wrong even if everyone is doing it. Right is right, even if no one is doing it.",
+        "Don't make excuses for nasty people. You can't put a flower in an asshole and call it a vase.",
+        "Je t'aime!",
+        "Vanessa + David = THE LERRRRRRRVE!!!!",
+        "Daaaaviiiiiid, the handsome maaaaan, to the rescuuuuuuue, Daaaaviiiiiiiiid. popopopom.",
         "Hello, you beautiful specimen!",
         "You look sexy!",
-        "Looking good today!",
-        "Make today your bitch!",
-        "A little lunch goes a long way!",
-        "FIGHT THE NAP!",
-        "Okay, naps are good."
-    ],
-  "evening": [
+        "Looking good today!"
         "Wow, you look hot!",
         "You look nice!",
         "Hi, sexy!",
@@ -32,19 +33,44 @@
         "Look at that sexy booty!",
         "Show me what you got!"
     ],
+  "morning": [
+        "Good morning, Sunshine!",
+        "Enjoy your day!",
+        "How was your sleep?",
+        "Kick today's face right in the butt!",
+        "Carpe Diem all up in here!",
+        "Drink. Coffee.",
+        "Today is going to be a good day!",
+        "Bon matin!",
+        "T'es toute une beauté matinale, toi!",
+        "What is today's theme?",
+        "Make today your lil' bitch!"
+    ],
+  "afternoon": [
+        "A little lunch goes a long way!",
+        "You do not need a nap!!! Okay, maybe just a little itty-bitty nap?"
+    ],
+  "evening": [
+        "Try and go to bed at a decent time tonight!",
+        "How was your day?",
+        "What was today's lesson?",
+        "Ahhhhhh time to start winding down..."
+    ],
     /* In YYYY-MM-DD format */
   "....-01-01": [
-        "Happy New Year!"
+        "Happy New Year!",
+        "Happy anniversary of another revolution of earth around the sun!"
     ],
   "....-01-07": [
         "Happy Birthday, sexy lady!",
         "Get that birthday suit on!",
         "Get that husband of yours to do what you want!",
-        "Your husband, your rules. Your birthday treat!"
+        "Your husband, your rules, your birthday treat!"
     ],
   "....-11-06": [
         "Happy Birthday, handsome man!",
         "Birthday suit time?",
         "Wife has 'duties' today!"
+        "Look, I'm not saying that you're old. But if you were milk, I'd sniff you first.."
     ]
 }
