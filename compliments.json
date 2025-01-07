@@ -1,0 +1,50 @@
+{
+  "anytime": [
+        "Hey there sexy!",
+        "What's shakin?",
+        "Shake what yo momma gave ya!",
+        "Are you ready?!",
+        "Shimmy your jimmy!",
+        "Let loose your caboose!"
+    ],
+  "morning": [
+        "Good morning!",
+        "Enjoy your day!",
+        "How was your sleep?",
+        "Kick today's ass!",
+        "Carpe Diem all up in here!",
+        "Drink. Coffee."
+    ],
+  "afternoon": [
+        "Hello, you beautiful specimen!",
+        "You look sexy!",
+        "Looking good today!",
+        "Make today your bitch!",
+        "A little lunch goes a long way!",
+        "FIGHT THE NAP!",
+        "Okay, naps are good."
+    ],
+  "evening": [
+        "Wow, you look hot!",
+        "You look nice!",
+        "Hi, sexy!",
+        "Hello you sexy thing!",
+        "Look at that sexy booty!",
+        "Show me what you got!"
+    ],
+    /* In YYYY-MM-DD format */
+  "....-01-01": [
+        "Happy New Year!"
+    ],
+  "....-01-07": [
+        "Happy Birthday, sexy lady!",
+        "Get that birthday suit on!",
+        "Get that husband of yours to do what you want!",
+        "Your husband, your rules. Your birthday treat!"
+    ],
+  "....-11-06": [
+        "Happy Birthday, handsome man!",
+        "Birthday suit time?",
+        "Wife has 'duties' today!"
+    ]
+}
