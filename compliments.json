@@ -74,51 +74,51 @@
         "Look, I'm not saying that you're old. But if you were milk, I'd sniff you first.."
     ],
   "day_sunny" : [
-    "day_sunny"
+    "The sun is shining!"
     ],
   "day_cloudy" : [
-    "day_cloudy"
+    "Wait, where'd the sun go?"
     ],
   "cloudy" : [
-    "cloudy"
+    "Grey. Grey everywhere."
     ],
   "cloudy_windy" : [
-    "cloudy_windy"
+    "Clouds AND Wind."
     ],
   "showers" : [
-    "showers"
+    "Showers? I already had a shower."
     ],
   "rain" : [
-    "rain"  
+    "Rain, Rain - go away!"  
     ],
   "thunderstorm" : [
-    "thunderstorm"
+    "Thunderbolt and Lightning! Very, very frightning!"
     ],
   "snow" : [
-    "snow"
+    "White as far as the eye can see."
     ],
   "fog" : [
-    "fog"
+    "There was a movie about this!"
     ],
   "night_clear" : [
-    "night_clear"
+    "Starry night. Van Gogh would be happy about this."
     ],
   "night_cloudy" : [
-    "night_cloudy"
+    "Grey, but at night!"
     ],
   "night_showers" : [
-    "night_showers"
+    "Showers. At night. Moisture you can't see!"
     ],
   "night_rain" : [
-    "night_rain"
+    "Rain at night? Loud, dark, liquid wetness."
     ],
   "night_thunderstorm" : [
-    "night_thunderstorm"
+    "Night thunder - That'll be my stripper name."
     ],
   "night_snow" : [
-    "night_snow"
+    "If snow glowed, I'd be able to see how much bull snow is."
     ],
   "night_alt_cloudy_windy" : [
-    "night_alt_cloudy_windy"
+    "It's night. It's cloudy. It's windy. Best to just stay in!"
     ]
 }
