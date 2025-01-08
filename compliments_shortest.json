@@ -1,0 +1,38 @@
+{
+  "anytime": [
+        "Hello, you beautiful specimen!",
+        "Look at that sexy booty!",
+        "Show me what you got!"
+    ],
+  "morning": [
+        "Good morning, Sunshine!",
+        "Carpe Diem all up in here!",
+        "Make today your lil' bitch!"
+    ],
+  "afternoon": [
+        "A little lunch goes a long way!",
+        "You do not need a nap!!! Okay, maybe just a little itty-bitty nap?"
+    ],
+  "evening": [
+        "How was your day?",
+        "What was today's lesson?",
+        "Ahhhhhh time to start winding down..."
+    ],
+    /* In YYYY-MM-DD format */
+  "....-01-01": [
+        "Happy New Year!",
+        "Happy anniversary of another revolution of earth around the sun!"
+    ],
+  "....-01-07": [
+        "Happy Birthday, sexy lady!",
+        "Get that birthday suit on!",
+        "Get that husband of yours to do what you want!",
+        "Your husband, your rules, your birthday treat!"
+    ],
+  "....-11-06": [
+        "Happy Birthday, handsome man!",
+        "Birthday suit time?",
+        "Wife has 'duties' today!",
+        "Look, I'm not saying that you're old. But if you were milk, I'd sniff you first.."
+    ]
+}
